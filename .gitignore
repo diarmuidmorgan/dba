@@ -1,4 +1,7 @@
 /.ipynb_checkpoints
 /dbanalysis/.ipynb_checkpoints
 /notebooks/.ipynb_checkpoints
-/dbanalysis/resources/models
+/dbanalysis/resources/
+/dbnalysis/network/networkpickle.bin
+/dbanalysis/network/simple_network_concated
+/dbanalysis/network/simple_network_with_tables.bin
